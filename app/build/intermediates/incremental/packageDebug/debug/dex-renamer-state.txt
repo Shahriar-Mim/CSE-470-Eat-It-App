@@ -1,0 +1,7 @@
+#Fri Sep 03 23:04:16 BDT 2021
+base.0=G\:\\EatIt_MVC project CSE 470\\MVC _ Food ordering Sprint 04\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=G\:\\EatIt_MVC project CSE 470\\MVC _ Food ordering Sprint 04\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2

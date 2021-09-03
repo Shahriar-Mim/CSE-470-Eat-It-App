@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_cart.xml" value="0.15833333333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_food_detail.xml" value="0.25" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_food_list.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_home.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_main.xml" value="0.15833333333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_order_status.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_sign_in.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/activity_sign_up.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/app_bar_home.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/cart_layout.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/content_home.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/food_item.xml" value="0.25" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/menu_item.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/nav_header_home.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/Android-Food-Order-Application-for-6150-latest/app/src/main/res/layout/order_layout.xml" value="0.12552083333333333" />
+        <entry key="..\:/EatIt_MVC project CSE 470/MVC _ Food ordering Sprint 04/app/src/main/res/layout/activity_sign_up.xml" value="0.25104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
