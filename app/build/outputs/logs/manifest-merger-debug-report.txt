@@ -128,10 +128,10 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MIM&ZIM\.gradle\cach
 		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:13:9-40
-activity#com.androideatit.MainActivity
+activity#com.androideatit.Controller.MainActivity
 ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:14:19-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
@@ -142,38 +142,38 @@ category#android.intent.category.LAUNCHER
 ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.androideatit.SignIn
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:21:9-44
+activity#com.androideatit.Controller.SignIn
+ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:21:9-55
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:21:19-41
-activity#com.androideatit.SignUp
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:22:9-44
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:21:19-52
+activity#com.androideatit.Controller.SignUp
+ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:22:9-55
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:22:19-41
-activity#com.androideatit.Home
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:22:19-52
+activity#com.androideatit.Controller.Home
 ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:23:9-26:60
 	android:label
 		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:25:13-56
 	android:theme
 		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:26:13-57
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:24:13-33
-activity#com.androideatit.FoodList
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:27:9-46
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:24:13-44
+activity#com.androideatit.Controller.FoodList
+ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:27:9-57
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:27:19-43
-activity#com.androideatit.FoodDetail
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:28:9-48
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:27:19-54
+activity#com.androideatit.Controller.FoodDetail
+ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:28:9-59
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:28:19-45
-activity#com.androideatit.Cart
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:29:9-42
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:28:19-56
+activity#com.androideatit.Controller.Cart
+ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:29:9-53
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:29:19-39
-activity#com.androideatit.OrderStatus
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:30:9-58
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:29:19-50
+activity#com.androideatit.Controller.OrderStatus
+ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:30:9-69
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:30:19-46
+		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:30:19-57
 uses-sdk
 INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml

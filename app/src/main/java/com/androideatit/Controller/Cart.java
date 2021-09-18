@@ -1,4 +1,4 @@
-package com.androideatit;
+package com.androideatit.Controller;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -25,6 +25,7 @@ import com.androideatit.Model.Food;
 import com.androideatit.Model.Order;
 import com.androideatit.Model.Request;
 import com.androideatit.Model.Receipt;
+import com.androideatit.R;
 import com.androideatit.View.CartAdapter;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -40,8 +41,8 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
-import static com.androideatit.Cart.inventory;
-import static com.androideatit.Cart.inventoryList;
+import static com.androideatit.Controller.Cart.inventory;
+import static com.androideatit.Controller.Cart.inventoryList;
 
 //this thread updates the inventoryList from firebase
 class IventoryListThread implements Runnable

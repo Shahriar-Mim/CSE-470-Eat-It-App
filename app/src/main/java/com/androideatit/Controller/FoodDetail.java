@@ -1,4 +1,4 @@
-package com.androideatit;
+package com.androideatit.Controller;
 
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.FloatingActionButton;
@@ -11,6 +11,7 @@ import android.widget.TextView;
 import com.androideatit.Database.Database;
 import com.androideatit.Model.Food;
 import com.androideatit.Model.Order;
+import com.androideatit.R;
 import com.androideatit.View.FoodViewHolder;
 import com.cepheuen.elegantnumberbutton.view.ElegantNumberButton;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;

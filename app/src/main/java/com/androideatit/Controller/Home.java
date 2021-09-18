@@ -1,4 +1,4 @@
-package com.androideatit;
+package com.androideatit.Controller;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
-
+import com.androideatit.R;
 import com.androideatit.Common.Common;
 import com.androideatit.Interface.ItemClickListener;
 import com.androideatit.Model.Category;

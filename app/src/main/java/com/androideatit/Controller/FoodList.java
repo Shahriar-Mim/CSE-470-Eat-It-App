@@ -1,4 +1,4 @@
-package com.androideatit;
+package com.androideatit.Controller;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,7 +7,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
-
+import com.androideatit.R;
 import com.androideatit.Interface.ItemClickListener;
 import com.androideatit.Model.Category;
 import com.androideatit.Model.Food;

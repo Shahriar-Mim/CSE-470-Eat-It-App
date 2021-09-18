@@ -1,4 +1,4 @@
-package com.androideatit;
+package com.androideatit.Controller;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 import com.androideatit.Common.Common;
 import com.androideatit.Model.User;
+import com.androideatit.R;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
