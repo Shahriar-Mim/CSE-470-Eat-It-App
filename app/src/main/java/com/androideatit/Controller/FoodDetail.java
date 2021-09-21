@@ -8,10 +8,10 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.androideatit.Database.Database;
+import com.androideatit.Model.Database;
+import com.androideatit.R;
 import com.androideatit.Model.Food;
 import com.androideatit.Model.Order;
-import com.androideatit.R;
 import com.androideatit.View.FoodViewHolder;
 import com.cepheuen.elegantnumberbutton.view.ElegantNumberButton;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;

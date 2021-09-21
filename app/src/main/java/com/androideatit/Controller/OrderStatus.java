@@ -40,7 +40,7 @@ public class OrderStatus extends AppCompatActivity {
 
     }
 
-    private void loadOrders(String phone) {
+   public void loadOrders(String phone) {
         adapter = new FirebaseRecyclerAdapter<Request, OrderViewHolder>(
                 Request.class,
                 R.layout.order_layout,
@@ -61,7 +61,10 @@ public class OrderStatus extends AppCompatActivity {
 
     }
 
-    private String convertCodeToStatus(String status) {
+public int orderStreet(int num ){
+        return num;
+}
+    public String convertCodeToStatus(String status) {
         if(status.equals("0"))
             return "Placed";
         else if(status.equals("1"))

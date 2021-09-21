@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Sep 19 00:53:16 BDT 2021
+1.base=G\:\\CSE-470-MVC-Project_3RD_Trial\\CSE-470-MVC-Project-main\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\1
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=G\:\\CSE-470-MVC-Project_3RD_Trial\\CSE-470-MVC-Project-main\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=G\:\\CSE-470-MVC-Project_3RD_Trial\\CSE-470-MVC-Project-main\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\2
+2.baseType=DIRECTORY
+1.path=classes.dex

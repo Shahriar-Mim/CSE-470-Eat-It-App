@@ -20,7 +20,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.androideatit.Common.Common;
-import com.androideatit.Database.Database;
+import com.androideatit.Model.Database;
 import com.androideatit.Model.Food;
 import com.androideatit.Model.Order;
 import com.androideatit.Model.Request;

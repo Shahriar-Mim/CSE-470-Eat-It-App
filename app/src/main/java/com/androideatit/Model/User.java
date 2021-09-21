@@ -20,7 +20,6 @@ public class User {
     public void setPhone(String phone) {
         Phone = phone;
     }
-
     public String getPhone() {
 
         return Phone;
@@ -40,5 +39,9 @@ public class User {
 
     public void setPassword(String password) {
         Password = password;
+    }
+
+    public String getPhoneNumber(String num){
+        return num;
     }
 }

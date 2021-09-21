@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\8c33cfc720589bb3b8c23ece5f853743\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0f5928071f917e79a33498ec6085df97\AndroidManifest.xml:17:1-31:12
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\9441bf87b6d2bf5eb35ff50cb64e49ea\AndroidManifest.xml:2:1-14:12
@@ -33,25 +33,25 @@ MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MIM&ZIM\.
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\db4025bb8b35b9f236808f6a33c52aca\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\55574dc7c9116f7f713a0b0d3d14d7d4\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a670a2d633ad8828a0f0bec4d44cb1ae\AndroidManifest.xml:17:1-30:12
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\98c07df9a2fa50bb1dc5d0da459d898f\AndroidManifest.xml:11:5-67
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\98c07df9a2fa50bb1dc5d0da459d898f\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.1.aar\aa25f0cbb28de2ad7a9f02add1aa01fc\AndroidManifest.xml:20:5-66
@@ -61,9 +61,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\MIM&ZI
 MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\d5c787c349ae0cf192211a93e1ff00ae\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.1.aar\d5c787c349ae0cf192211a93e1ff00ae\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:7:5-31:19
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:7:5-31:19
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\8c33cfc720589bb3b8c23ece5f853743\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\8c33cfc720589bb3b8c23ece5f853743\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:design:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0f5928071f917e79a33498ec6085df97\AndroidManifest.xml:25:5-29:19
@@ -117,67 +117,67 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MIM&ZIM\.gradle
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a670a2d633ad8828a0f0bec4d44cb1ae\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a670a2d633ad8828a0f0bec4d44cb1ae\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.androideatit.Controller.MainActivity
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:14:19-58
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:14:19-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.androideatit.Controller.SignIn
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:21:9-55
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:21:9-55
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:21:19-52
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:21:19-52
 activity#com.androideatit.Controller.SignUp
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:22:9-55
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:22:9-55
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:22:19-52
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:22:19-52
 activity#com.androideatit.Controller.Home
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:23:9-26:60
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:23:9-26:60
 	android:label
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:25:13-56
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:25:13-56
 	android:theme
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:26:13-57
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:26:13-57
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:24:13-44
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:24:13-44
 activity#com.androideatit.Controller.FoodList
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:27:9-57
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:27:9-57
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:27:19-54
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:27:19-54
 activity#com.androideatit.Controller.FoodDetail
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:28:9-59
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:28:9-59
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:28:19-56
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:28:19-56
 activity#com.androideatit.Controller.Cart
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:29:9-53
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:29:9-53
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:29:19-50
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:29:19-50
 activity#com.androideatit.Controller.OrderStatus
-ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:30:9-69
+ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:30:9-69
 	android:name
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml:30:19-57
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml:30:19-57
 uses-sdk
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\8c33cfc720589bb3b8c23ece5f853743\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\firebase-core-10.2.1.aar\8c33cfc720589bb3b8c23ece5f853743\AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:design:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0f5928071f917e79a33498ec6085df97\AndroidManifest.xml:21:5-23:62
@@ -236,18 +236,18 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MIM&ZIM\.gradle
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\55574dc7c9116f7f713a0b0d3d14d7d4\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a670a2d633ad8828a0f0bec4d44cb1ae\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a670a2d633ad8828a0f0bec4d44cb1ae\AndroidManifest.xml:20:5-22:41
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0f5928071f917e79a33498ec6085df97\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-		ADDED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
-		INJECTED from G:\EatIt_MVC project CSE 470\MVC _ Food ordering Sprint 04\app\src\main\AndroidManifest.xml
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+		ADDED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
+		INJECTED from G:\CSE-470-MVC-Project_3RD_Trial\CSE-470-MVC-Project-main\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0f5928071f917e79a33498ec6085df97\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MIM&ZIM\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\319a46104e7391ff36a8a4902dce5965\AndroidManifest.xml:26:9-28:38
