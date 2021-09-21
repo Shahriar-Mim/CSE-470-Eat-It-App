@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MVC___Food_ordering_Sprint_04.iml" filepath="$PROJECT_DIR$/.idea/modules/MVC___Food_ordering_Sprint_04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MVC___Food_ordering_Sprint_04.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MVC___Food_ordering_Sprint_04.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSE-470-MVC-Project-main.iml" filepath="$PROJECT_DIR$/.idea/modules/CSE-470-MVC-Project-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CSE-470-MVC-Project-main.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CSE-470-MVC-Project-main.app.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:truth:1.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/truth-1.3.0.aar/1f9ae234cecd0c933059b0e4369ce91c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/truth-1.3.0.aar/1f9ae234cecd0c933059b0e4369ce91c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/truth-1.3.0.aar/1f9ae234cecd0c933059b0e4369ce91c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
